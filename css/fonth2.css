@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.h2 {
+    font-family: 'Lobster', cursive; /* Thay đổi font chữ mong muốn */
+    /* Hoặc sử dụng một font chữ tùy chỉnh nếu bạn có font tải về trên trang web */
+  }

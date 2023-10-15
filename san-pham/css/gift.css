@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@600&display=swap');
+
+.h2 {
+    font-family: 'Ysabeau SC', sans-serif; /* Thay đổi font chữ mong muốn giftvoucher */
+    /* Hoặc sử dụng một font chữ tùy chỉnh nếu bạn có font tải về trên trang web */
+  }
